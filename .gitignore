@@ -1,3 +1,5 @@
 *.dat
 *.o
 .directory
+cmake-build-debug
+.idea
